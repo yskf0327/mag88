@@ -177,6 +177,10 @@ footer {
   list-style-type: '- ';
   padding-left: 0.5em;
 }
+
+.footer-item p {
+  font-size: 12px;
+}
 .footer-list li {
   line-height: 2;
   font-size: 12px;
