@@ -222,6 +222,7 @@ footer {
   }
   .footer-inner {
     flex-direction: row;
+    padding-block: 100px;
   }
   .footer-inner > * {
     flex: 1;
